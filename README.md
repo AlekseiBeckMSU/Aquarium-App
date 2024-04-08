@@ -1,2 +1,2 @@
 # Aquarium App
- Basic Aquarium App that allows the user to interact and add fish to it using a drop down menu.
+This project is a virtual aquarium displayed in a window, where users can add various fish through a dropdown menu. A unique feature is the Dovafin, which, upon being double-clicked, moves nearby fish to the right side of the screen, provided they are already to its right. This was my first venture into developing a project focused on displaying and interacting with movable objects on-screen.

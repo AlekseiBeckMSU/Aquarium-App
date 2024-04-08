@@ -1,0 +1,16 @@
+# ninja log v5
+0	834	1712567155587176821	CMakeFiles/Aquarium.dir/cmake_pch_arm64.hxx.pch	a4456deafa4c6968
+0	841	1712567155594196649	AquariumLib/CMakeFiles/AquariumLib.dir/cmake_pch_arm64.hxx.pch	adf3582de57674b9
+841	985	1712567155738082415	AquariumLib/CMakeFiles/AquariumLib.dir/temp.cpp.o	9223202a1f63ee6a
+837	1068	1712567155820345686	CMakeFiles/Aquarium.dir/AquariumApp.cpp.o	c1a325f81c4b2d4a
+836	1088	1712567155840342046	CMakeFiles/Aquarium.dir/main.cpp.o	bb5c358b6ea0d508
+841	1103	1712567155853357328	AquariumLib/CMakeFiles/AquariumLib.dir/MainFrame.cpp.o	5a9297792fc81434
+841	1116	1712567155867896775	AquariumLib/CMakeFiles/AquariumLib.dir/Aquarium.cpp.o	e09d4ef10aa1ce8
+841	1139	1712567155892980881	AquariumLib/CMakeFiles/AquariumLib.dir/AquariumView.cpp.o	aa9d20a7a23f9f7c
+985	1205	1712567155955541251	AquariumLib/CMakeFiles/AquariumLib.dir/Item.cpp.o	979fda34cc156533
+1068	1284	1712567156037527897	AquariumLib/CMakeFiles/AquariumLib.dir/FishBeta.cpp.o	98fb52eb950f1325
+1088	1286	1712567156041012894	AquariumLib/CMakeFiles/AquariumLib.dir/FishAngel.cpp.o	794f60099a881781
+1103	1299	1712567156054282093	AquariumLib/CMakeFiles/AquariumLib.dir/FishAngler.cpp.o	3fed6fb25126af96
+1116	1314	1712567156069063248	AquariumLib/CMakeFiles/AquariumLib.dir/FishDovahfin.cpp.o	a9b9f492d72fb803
+1314	1365	1712567156123145000	AquariumLib/libAquariumLib.a	619edd44c5503576
+1365	1527	1712567156280051047	Aquarium.app/Contents/MacOS/Aquarium	47a230b43c1c47b2
